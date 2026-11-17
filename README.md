@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ohme provides smart home EV charging solutions that optimise electricity tariffs, integrate with solar panels and offer dynamic, green, and cost‑effective charging for electric vehicles. Their products include compact wall‑mounted chargers, an app for scheduling and monitoring, and support for multi‑car households and fleet operators. Ohme aims to reduce charging costs and carbon footprint through intelligent tariff switching and renewable energy use.
+Ohme provides smart home EV chargers and a mobile app that optimises charging times to reduce costs and use greener electricity. Based in the UK, Ohme’s solutions include residential chargers, business charging hubs, and integration with leading electric vehicle manufacturers. Their platform offers real‑time monitoring, dynamic pricing, and seamless installation services, aiming to make electric vehicle ownership more convenient and sustainable.
 
-**Areas:** Company · EVCharging · SmartCharging · RenewableEnergy · HomeCharging
+**Areas:** EV Charging · Smart Charging · Home Chargers · Mobility Solutions · Built Environment
 
 ## Ohme on APIs.io
 
 Everything profiled for Ohme is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ohme/](https://apis.io/providers/ohme/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [Ohme API](https://apis.io/apis/ohme/ohme-api/) — Ohme provides smart home EV charging solutions with an API for managing chargers, tariffs and schedules.
 
 ### Published properties
 
@@ -97,16 +93,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 8.5** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 9.3** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 48.2 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 2.4 |
-| Access clarity | 17.0 |
+| Access clarity | 21.1 |
 
 **Agent readiness 3.1** — human-only
 
@@ -135,7 +131,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 11.5** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ohme/](https://apis.io/providers/ohme/).
 
